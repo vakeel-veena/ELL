@@ -74,19 +74,32 @@ Each session must use **one** of the lenses below.
 ---
 
 #### Lens A — Decision Review
-```
+
+    ```
 Decision I made:
-
-What I chose
-
-What I optimized for
-
-What trade-off I accepted
-
+<ul>
+<li>What I chose</li>
+<li>What I optimized for</li>
+<li>What trade-off I accepted</li>
+</ul>
 What I want perspective on:
+<ul>
+<li>Was my framing strong?</li>
+</ul>
 
-Was my framing strong?
-```
+    ```
 
 #### Lens B — Influence Attempt Review
+    ```
+Where I tried to influence without authority:
+<ul>
+<li>Who I was trying to influence</li>
+<li>Why it mattered</li>
+<li>What happened</li>
+</ul>
+What I want help with:
+<ul><li>
+What I misread or underused</li>
+
+    ```
 
