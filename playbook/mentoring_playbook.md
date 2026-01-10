@@ -74,16 +74,11 @@ Each session must use **one** of the lenses below.
 ---
 
 #### Lens A — Decision Review
-<<<<<<< HEAD
 ```
 Decision I made:
  - What I chose
  - What I optimized for
  - What trade-off I accepted
-=======
->>>>>>> 6ed04ff9a1a4e091c48180c3732bdd74c74c9095
-
-<<<<<<< HEAD
 What I want perspective on:
  - Was my framing strong?
 ```
@@ -100,55 +95,16 @@ What I want help with:
 ```
 
 ---
-=======
-    ```
-Decision I made:
-<ul>
-<li>What I chose</li>
-<li>What I optimized for</li>
-<li>What trade-off I accepted</li>
-</ul>
-What I want perspective on:
-<ul>
-<li>Was my framing strong?</li>
-</ul>
->>>>>>> 6ed04ff9a1a4e091c48180c3732bdd74c74c9095
 
-<<<<<<< HEAD
 #### Lens C — Confidence and Visibility Review
 ```
 A moment I held back or overplayed:
  - What stopped me
-=======
-    ```
->>>>>>> 6ed04ff9a1a4e091c48180c3732bdd74c74c9095
-
-<<<<<<< HEAD
 What I want help with:
- - Reframing risk or presenc
+ - Reframing risk or presence
 ```
 ---
-=======
-#### Lens B — Influence Attempt Review
-    ```
-Where I tried to influence without authority:
-<ul>
-<li>Who I was trying to influence</li>
-<li>Why it mattered</li>
-<li>What happened</li>
-</ul>
-What I want help with:
-<ul><li>
-What I misread or underused</li>
->>>>>>> 6ed04ff9a1a4e091c48180c3732bdd74c74c9095
 
-<<<<<<< HEAD
-### How Phase 2 Is Used
-=======
-    ```
->>>>>>> 6ed04ff9a1a4e091c48180c3732bdd74c74c9095
-
-<<<<<<< HEAD
 Before every mentoring session (after Session 2), pick **one lens** and bring it to the conversation.
 
 If you feel you have nothing to bring, that **is** the discussion.
