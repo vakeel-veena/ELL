@@ -18,7 +18,7 @@ The capstone is a low-lift reflection exercise where participants document leade
 
 | Document | Audience | Purpose |
 |----------|----------|---------|
-| [CAPSTONE_PLAYBOOK.md](./CAPSTONE_PLAYBOOK.md) | Program Lead | Master framework, design rationale, success criteria |
+| [CAPSTONE_PLAYBOOK.md](./capstone-playbook.md) | Program Lead | Master framework, design rationale, success criteria |
 
 ### Role-Specific Guides
 
