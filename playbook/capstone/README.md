@@ -18,28 +18,28 @@ The capstone is a low-lift reflection exercise where participants document leade
 
 | Document | Audience | Purpose |
 |----------|----------|---------|
-| [CAPSTONE_PLAYBOOK.md](./capstone-playbook.md) | Program Lead | Master framework, design rationale, success criteria |
+| [capstone-playbook.md](./capstone-playbook.md) | Program Lead | Master framework, design rationale, success criteria |
 
 ### Role-Specific Guides
 
 | Document | Audience | Purpose |
 |----------|----------|---------|
-| [PARTICIPANT_GUIDE.md](./PARTICIPANT_GUIDE.md) | Participants | What to do, when, and how—written for them |
-| [POD_MANAGER_GUIDE.md](./POD_MANAGER_GUIDE.md) | Pod Managers | Facilitation prompts, rehearsal guide, troubleshooting |
-| [MENTOR_GUIDE.md](./MENTOR_GUIDE.md) | Mentors | Supporting story selection and framing |
+| [participant-guide.md](./participant-guide.md) | Participants | What to do, when, and how—written for them |
+| [pod-manager-guide.md](./pod-manager-guide.md) | Pod Managers | Facilitation prompts, rehearsal guide, troubleshooting |
+| [mentor-guide.md(./mentor-guide.md) | Mentors | Supporting story selection and framing |
 
 ### Event & Presentation
 
 | Document | Audience | Purpose |
 |----------|----------|---------|
-| [PRESENTATION_PREP.md](./PRESENTATION_PREP.md) | Participants | Story structure, delivery tips, sample story |
-| [SLT_PRESENTATION_RUNSHEET.md](./SLT_PRESENTATION_RUNSHEET.md) | Program Lead | Event logistics, agenda, contingency plans |
+| [presentation-prep.md](./presentation-prep.md) | Participants | Story structure, delivery tips, sample story |
+| [slt-presentation-runsheet.md](./slt-presentation-runsheet.md) | Program Lead | Event logistics, agenda, contingency plans |
 
 ### Templates
 
 | Document | Audience | Purpose |
 |----------|----------|---------|
-| [MOMENT_LOG_TEMPLATE.md](../templates/MOMENT_LOG_TEMPLATE.md) | Participants | Structured template for logging 3–4 moments |
+| [moment-log-template.md](../templates/moment-log-template.md) | Participants | Structured template for logging 3–4 moments |
 
 ---
 
@@ -70,27 +70,27 @@ The capstone is a low-lift reflection exercise where participants document leade
 
 ### If You're a Participant
 
-Start here: [PARTICIPANT_GUIDE.md](./PARTICIPANT_GUIDE.md)
+Start here: [participant-guide.md](./participant-guide.md)
 
-Then: [MOMENT_LOG_TEMPLATE.md](../templates/MOMENT_LOG_TEMPLATE.md) → [PRESENTATION_PREP.md](./PRESENTATION_PREP.md)
+Then: [moment-log-template.md](../templates/moment-log-template.md) → [presentation-prep.md](./presentation-prep.md)
 
 ### If You're a Pod Manager
 
-Start here: [POD_MANAGER_GUIDE.md](./POD_MANAGER_GUIDE.md)
+Start here: [pod-manager-guide.md](./pod-manager-guide.md)
 
-Reference: [CAPSTONE_PLAYBOOK.md](./CAPSTONE_PLAYBOOK.md) for full context
+Reference: [capstone-playbook.md](./capstone-playbook.md) for full context
 
 ### If You're a Mentor
 
-Start here: [MENTOR_GUIDE.md](./MENTOR_GUIDE.md)
+Start here: [mentor-guide.md(./MENTOR_GUIDE.md)
 
-Reference: [PARTICIPANT_GUIDE.md](./PARTICIPANT_GUIDE.md) to understand what participants are told
+Reference: [participant-guide.md](./participant-guide.md) to understand what participants are told
 
 ### If You're the Program Lead
 
-Start here: [CAPSTONE_PLAYBOOK.md](./CAPSTONE_PLAYBOOK.md)
+Start here: [capstone-playbook.md](./capstone-playbook.md)
 
-Event planning: [SLT_PRESENTATION_RUNSHEET.md](./SLT_PRESENTATION_RUNSHEET.md)
+Event planning: [slt-presentation-runsheet.md](./slt-presentation-runsheet.md)
 
 ---
 
